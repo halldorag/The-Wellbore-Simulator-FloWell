@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gudmundsdottir"
+  given-names: "Halldora"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Jonsson"
+  given-names: "Magnus Thor"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "The Wellbore Simulator FloWell"
+version: 1.0
+date-released: 2015-05-07
+url: "https://github.com/halldorag/The-Wellbore-Simulator-FloWell"
