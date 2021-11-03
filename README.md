@@ -38,9 +38,13 @@ To validate the wellbore simulator FloWell, simulated output needs to be compare
 
 **Step 2:** Run FloWell.m in MATLAB
 
-
 ## Other Comments
 The version of FloWell published here is the first version that was developed (after some minor enhancement in 2015). FloWell has since been integrated into iTOUGH2 [6,7] and further developed to handle deviated wells, injection mode, and other enhancements [8,9,10].
+
+## Citation
+If you use this software, please cite it as:
+
+Gudmundsdottir, H., & Jonsson, M. T. (2015). *The Wellbore Simulator FloWell* (Version 1.0) [Computer software]. https://github.com/halldorag/The-Wellbore-Simulator-FloWell
 
 ## References
 <a id="1">[1]</a> 
