@@ -44,7 +44,7 @@ The version of FloWell published here is the first version that was developed (a
 ## Citation
 If you use this software, please cite it as:
 
-Gudmundsdottir, H., & Jonsson, M. T. (2015). *The Wellbore Simulator FloWell* (Version 1.0) [Computer software]. https://github.com/halldorag/The-Wellbore-Simulator-FloWell
+Gudmundsdottir, H., Jonsson, M. T., & Palsson, H. (2015). *The Wellbore Simulator FloWell* (Version 1.0) [Computer software]. https://github.com/halldorag/The-Wellbore-Simulator-FloWell
 
 ## References
 <a id="1">[1]</a> 
