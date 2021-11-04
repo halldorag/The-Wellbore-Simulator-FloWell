@@ -7,6 +7,9 @@ authors:
 - family-names: "Jonsson"
   given-names: "Magnus Thor"
   orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Palsson"
+  given-names: "Halldor"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
 title: "The Wellbore Simulator FloWell"
 version: 1.0
 date-released: 2015-05-07
