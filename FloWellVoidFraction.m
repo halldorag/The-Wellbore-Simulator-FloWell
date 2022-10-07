@@ -39,5 +39,5 @@ elseif choice.void_fraction == 6;
     sigma = 0.2358*(1-T/647.096)^1.256*(1-0.625*(1-T/647.096));
     G = dotm/A;
     g = 9.8;
-    alpha = (x/rhog)*((1+0.12*(1-x))*(x/rhog+(1-x)/rhol)+(1.18*(1-x))*(g*sigma*(rhol-rhog)^0.25)/(G*rhol^0.5))^-1;
+    alpha = (x/rhog)*((1+0.12*(1-x))*(x/rhog+(1-x)/rhol)+(1.18*(1-x))*((g*sigma*(rhol-rhog))^0.25)/(G*rhol^0.5))^-1;
 end
